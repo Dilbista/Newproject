@@ -1,2 +1,2 @@
 # Newproject
-Author-Dil Bista
+Author-Dil Bist
